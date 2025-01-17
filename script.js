@@ -10,5 +10,5 @@ function iniciarMap(){
     });
 }
 
-//esto es una practcia de GIT.
+//esto es una practica de GIT.
 //codigo sera actualizado,modifcado por motivos de practica
