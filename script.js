@@ -9,3 +9,6 @@ function iniciarMap(){
       map: map
     });
 }
+
+//esto es una practcia de GIT.
+//codigo sera actualizado,modifcado por motivos de practica
